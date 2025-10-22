@@ -2,4 +2,5 @@
 
 or 
 
-# download these file to use in VS Code with Python + Jupyter extensions
+# download to use in VS Code with Python + Jupyter extensions
+## [Day 1](https://github.com/MBU-official/bca_practice/blob/main/question_day_1.ipynb)
