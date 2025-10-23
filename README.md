@@ -3,5 +3,5 @@
 or 
 
 # download to use in VS Code with Python + Jupyter extensions
-## [Day 1](https://github.com/MBU-official/bca_practice/blob/main/question_day_1.ipynb)
-## [DAy 2](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb)
+## [Day 1](https://github.com/MBU-official/bca_practice/blob/main/question_day_1.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_1.ipynb)  
+## [Day 2](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb)
