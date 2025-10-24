@@ -8,10 +8,10 @@
 ---
 ### [Day 1](https://github.com/MBU-official/bca_practice/blob/main/question_day_1.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_1.ipynb)  
 ### [Day 2](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_2.ipynb) 
-### [Day 3](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_3.ipynb) 
-### [Day 4](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_4.ipynb) 
-### [Day 5](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_5.ipynb) 
-### [Day 6](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_6.ipynb) 
+### [Day 3](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_3.ipynb) (coming soon)
+### [Day 4](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_4.ipynb) (coming soon)
+### [Day 5](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_5.ipynb) (coming soon)
+### [Day 6](https://github.com/MBU-official/bca_practice/blob/main/question_day_2.ipynb) 👉 [Solution](https://github.com/MBU-official/bca_practice/blob/main/solution_day_6.ipynb) (coming soon)
 
 
 
